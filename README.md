@@ -1,3 +1,3 @@
 # devops
 
-This repository is created to learn DevOps..
+This repository is created to learn DevOps
